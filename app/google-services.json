@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215681315201",
+    "project_id": "agroline-20974",
+    "storage_bucket": "agroline-20974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215681315201:android:5f66ad014e94483fb63880",
+        "android_client_info": {
+          "package_name": "com.example.agroline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215681315201-q4u65f2uulg00g04dskt4637hj65kfts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agroline",
+            "certificate_hash": "7cd9e83d8adca13b05a0b36368d8ce8c35d47620"
+          }
+        },
+        {
+          "client_id": "215681315201-6kle7re3egl79gh8edf49j20ua5c41kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbgr1NXuv3fjETCNN1PLjwIiyOhVvHI8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215681315201-6kle7re3egl79gh8edf49j20ua5c41kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
